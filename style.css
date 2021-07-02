@@ -1,3 +1,14 @@
-p{
+.desh{
     color: blue;
+    background-color: chartreuse;
+    border: 20px solid red;
+    border-radius: 20px;
+    padding: 20px;
+}
+.bidesh{
+    color: darkorchid;
+    background-color: crimson;
+    border: 20px solid brown;
+    padding: 20px;
+    border-radius: 20px;
 }
